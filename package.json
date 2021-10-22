@@ -31,6 +31,7 @@
     "webpack-cli": "^4.9.0"
   },
   "dependencies": {
-    "core-js": "^3.18.3"
+    "core-js": "^3.18.3",
+    "formdata-polyfill": "^4.0.10"
   }
 }
